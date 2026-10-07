@@ -151,3 +151,14 @@ AI 개발자/엔지니어 역량 강화를 위한 학습·실습 저장소입니
 - 계획 문서의 최신 원본은 Google Drive에서만 관리합니다. 이 README는 저장 위치 안내이며 계획 사본이나 대화 동기화 문서가 아닙니다.
 
 현재의 역량 목록에 없는 새 분야는 실제 학습 주제가 확정되면 적절한 하위 폴더를 추가합니다.
+
+## 문제은행 운영
+
+- 전체 커리큘럼: **210개 학습 세션**(기존 완료 문제 1개 + 신규 문제 209개)
+- 하루 기본량: Notebook 1개, 표준 40~50분 / 최소 20분
+- 문제 파일은 직접 수정하며 Git 이력이 원본 상태를 보존합니다.
+- 각 Notebook 마지막의 `AI_GROWTH_COMPLETE:<문제 ID>` 출력과 실행 결과를 저장한 뒤 commit·push합니다.
+- 상세 순서의 원본은 [Google Drive AI Growth 상세 문제 커리큘럼 v1](https://drive.google.com/file/d/1hJ69b_zi5biEyM5MSzKvtiBCSY0I5XAU/view)에서 관리합니다. 이 저장소의 README는 실제 파일 위치 안내입니다.
+- 문제 수: environment 6, python 20, data-analysis 30, evaluation 18, machine-learning 20, pytorch 18, computer-vision 24, time-series 12, transformer-llm 16, inference-api 14, algorithms 28, work-applications 4.
+
+기존 `data-analysis/preprocessing/01_data_missing_and_duplicates_orig.ipynb`와 풀이 파일은 완료된 첫 문제로 보존합니다. `algorithms/personal/`은 자유 연습 공간이므로 자동 커리큘럼에서 제외합니다.
