@@ -1,6 +1,6 @@
 # AI 역량 강화 진행 상태
 
-이 파일은 현재 학습 과제와 완료 증거를 기록합니다. 예약은 이 파일만 맹신하지 않고 GitHub의 실제 Notebook·커밋도 함께 확인합니다. 상세 실행 순서의 원본은 [Google Drive AI Growth 상세 문제 커리큘럼 v1](https://drive.google.com/file/d/1hJ69b_zi5biEyM5MSzKvtiBCSY0I5XAU/view)입니다. 상세 실행 순서의 원본은 [Google Drive AI Growth 상세 문제 커리큘럼 v1](https://drive.google.com/file/d/1hJ69b_zi5biEyM5MSzKvtiBCSY0I5XAU/view)입니다. 상세 실행 순서의 원본은 [Google Drive AI Growth 상세 문제 커리큘럼 v1](https://drive.google.com/file/d/1hJ69b_zi5biEyM5MSzKvtiBCSY0I5XAU/view)입니다.
+이 파일은 현재 학습 과제와 완료 증거를 기록합니다. 예약은 이 파일만 맹신하지 않고 GitHub의 실제 Notebook·커밋도 함께 확인합니다. 상세 실행 순서의 원본은 [Google Drive AI Growth 상세 문제 커리큘럼 v1](https://drive.google.com/file/d/1hJ69b_zi5biEyM5MSzKvtiBCSY0I5XAU/view)입니다. 상세 실행 순서의 원본은 [Google Drive AI Growth 상세 문제 커리큘럼 v1](https://drive.google.com/file/d/1hJ69b_zi5biEyM5MSzKvtiBCSY0I5XAU/view)입니다. 상세 실행 순서의 원본은 [Google Drive AI Growth 상세 문제 커리큘럼 v1](https://drive.google.com/file/d/1hJ69b_zi5biEyM5MSzKvtiBCSY0I5XAU/view)입니다. 상세 실행 순서의 원본은 [Google Drive AI Growth 상세 문제 커리큘럼 v1](https://drive.google.com/file/d/1hJ69b_zi5biEyM5MSzKvtiBCSY0I5XAU/view)입니다.
 
 ## 현재 과제
 - 상태: 미완료
@@ -17,6 +17,7 @@
   4. 마지막 완료 검사 셀에 `AI_GROWTH_COMPLETE:AG-EV-002`가 출력됨
   4. 마지막 완료 검사 셀에 `AI_GROWTH_COMPLETE:AG-EV-002`가 출력됨
   4. 마지막 완료 검사 셀에 `AI_GROWTH_COMPLETE:AG-EV-002`가 출력됨
+  4. 마지막 완료 검사 셀에 `AI_GROWTH_COMPLETE:AG-EV-002`가 출력됨
 
 ## 최근 완료
 ### 2026-09-18 — 데이터 전처리 기초
@@ -27,6 +28,8 @@
 - 완료 근거: 결측치·중복 확인, 처리, 전후 비교와 실행 결과가 Notebook에 포함됨
 
 ## 진행 판정 규칙
+- 문제은행 기준 커밋: `3e0ca98f6ba28ea9d6df3f6dd74283882e79883a`
+- 위 기준 커밋에 포함된 미풀이 템플릿 자체는 완료 증거가 아님
 - 사용자의 명시적 완료 보고가 없어도 GitHub의 최신 커밋과 파일에 완료 조건이 명확히 충족되면 완료로 판정
 - 단순 파일 생성이나 관련 없는 커밋만으로는 완료 처리하지 않음
 - 완료 증거가 없으면 같은 과제를 유지하고 밀린 과제를 누적하지 않음

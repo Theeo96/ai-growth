@@ -160,5 +160,6 @@ AI 개발자/엔지니어 역량 강화를 위한 학습·실습 저장소입니
 - 각 Notebook 마지막의 `AI_GROWTH_COMPLETE:<문제 ID>` 출력과 실행 결과를 저장한 뒤 commit·push합니다.
 - 상세 순서의 원본은 [Google Drive AI Growth 상세 문제 커리큘럼 v1](https://drive.google.com/file/d/1hJ69b_zi5biEyM5MSzKvtiBCSY0I5XAU/view)에서 관리합니다. 이 저장소의 README는 실제 파일 위치 안내입니다.
 - 문제 수: environment 6, python 20, data-analysis 30, evaluation 18, machine-learning 20, pytorch 18, computer-vision 24, time-series 12, transformer-llm 16, inference-api 14, algorithms 28, work-applications 4.
+- 문제은행 기준 커밋: `3e0ca98f6ba28ea9d6df3f6dd74283882e79883a`
 
 기존 `data-analysis/preprocessing/01_data_missing_and_duplicates_orig.ipynb`와 풀이 파일은 완료된 첫 문제로 보존합니다. `algorithms/personal/`은 자유 연습 공간이므로 자동 커리큘럼에서 제외합니다.
