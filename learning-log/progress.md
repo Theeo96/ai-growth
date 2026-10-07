@@ -1,6 +1,6 @@
 # AI 역량 강화 진행 상태
 
-이 파일은 현재 학습 과제와 완료 증거를 기록합니다. 예약은 이 파일만 맹신하지 않고 GitHub의 실제 Notebook·커밋도 함께 확인합니다. 상세 실행 순서의 원본은 [Google Drive AI Growth 상세 문제 커리큘럼 v1](https://drive.google.com/file/d/1hJ69b_zi5biEyM5MSzKvtiBCSY0I5XAU/view)입니다. 상세 실행 순서의 원본은 [Google Drive AI Growth 상세 문제 커리큘럼 v1](https://drive.google.com/file/d/1hJ69b_zi5biEyM5MSzKvtiBCSY0I5XAU/view)입니다. 상세 실행 순서의 원본은 [Google Drive AI Growth 상세 문제 커리큘럼 v1](https://drive.google.com/file/d/1hJ69b_zi5biEyM5MSzKvtiBCSY0I5XAU/view)입니다. 상세 실행 순서의 원본은 [Google Drive AI Growth 상세 문제 커리큘럼 v1](https://drive.google.com/file/d/1hJ69b_zi5biEyM5MSzKvtiBCSY0I5XAU/view)입니다.
+이 파일은 현재 학습 과제와 완료 증거를 기록합니다. 예약은 이 파일만 맹신하지 않고 GitHub의 실제 Notebook·커밋도 함께 확인합니다. 상세 실행 순서의 원본은 [Google Drive AI Growth 상세 문제 커리큘럼 v1](https://drive.google.com/file/d/1hJ69b_zi5biEyM5MSzKvtiBCSY0I5XAU/view)입니다.
 
 ## 현재 과제
 - 상태: 미완료
@@ -14,9 +14,6 @@
   1. 관련 `.ipynb`가 ai-growth 저장소에 커밋됨
   2. 학습·검증·테스트 분할과 각 행 수 확인이 포함됨
   3. 최소 한 분할에서 클래스 비율을 확인하고 `random_state`의 의미를 짧게 기록함
-  4. 마지막 완료 검사 셀에 `AI_GROWTH_COMPLETE:AG-EV-002`가 출력됨
-  4. 마지막 완료 검사 셀에 `AI_GROWTH_COMPLETE:AG-EV-002`가 출력됨
-  4. 마지막 완료 검사 셀에 `AI_GROWTH_COMPLETE:AG-EV-002`가 출력됨
   4. 마지막 완료 검사 셀에 `AI_GROWTH_COMPLETE:AG-EV-002`가 출력됨
 
 ## 최근 완료
